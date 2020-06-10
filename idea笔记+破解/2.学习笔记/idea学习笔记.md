@@ -571,4 +571,23 @@
 
 ### idea进行单元测试
 
-> `https://blog.csdn.net/VinsmS/article/details/80858944
+> `https://blog.csdn.net/VinsmS/article/details/80858944`
+
+
+
+
+
+
+
+### 好用的插件
+
+##### `Translation`
+
+> `ctrl+shift+y`翻译，`ctrl+shift+s`切换翻译源
+
+##### `Free MyBatis plugin`
+
+##### `lombok`
+
+> 使用lombok时，会出现get，set提示
+
